@@ -26,8 +26,7 @@
 | [Parkinson's Disease Detection](https://github.com/asbir10/Detect-Parkinson-s-Disease) | ML · Python · Scikit-Learn |
 | [IPL Data Analysis & Visualization](https://github.com/asbir10/Data-Analysis-And-Visualization---IPL-Data) | EDA · Pandas · Matplotlib |
 | [SNGCE Workflow System](https://github.com/Benson-62/Sngce_Workflow) | React · Node.js · MongoDB |
-| [Smart AI Cane](https://github.com/asbir10/smart_cane) | IoT · ESP32 · Kotlin |
-
+| [NovaCane – Smart AI Cane](https://github.com/n8novaa/NovaCane) | IoT · ESP32 · Kotlin · Firebase 
 ---
 
 ## Connect
